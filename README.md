@@ -19,3 +19,7 @@ A prefeitura de Amparo precisa realizar o Monitoramento de pontos de descarte ir
 3. Iniciar o servidor: No terminal, na pasta raiz, execute npm install para instalar as dependências e depois npm run dev para iniciar o servidor na porta 3000.
 
 4. Testar as rotas: Utilize ferramentas como Postman, Insomnia ou Thunder Client para validar os endpoints de usuários (/usuarios/listar, /usuarios/cadastrar, etc.) e consumo (/consumo/listar, /consumo/cadastrar).
+
+# Testes
+
+![print](./Captura_de_tela_2026-11-26)
