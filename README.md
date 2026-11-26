@@ -23,3 +23,5 @@ A prefeitura de Amparo precisa realizar o Monitoramento de pontos de descarte ir
 # Testes
 
 ![print](./Captura_de_tela_2026-11-26_130459.png)
+![print](./Captura_de_tela_26-11-26_130518.png)
+
